@@ -6,5 +6,5 @@ Speed up development processes for hisreg...
 ```docker build -t rapporteket/hisreg-dev .```
 
 ### Run
-Use ```docker-compose up``` from root of registry repository.
+Use ```docker-compose up``` from root of registry repository
 
