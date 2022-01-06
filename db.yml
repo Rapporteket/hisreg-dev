@@ -1,9 +1,9 @@
 
 # for registry development
-norgast:
+hisreg:
   host: db
   name: HisregReportDataStaging
   user: root
   pass: root
-  disp: ForNorgastDevOnly
+  disp: ForHisregDevOnly
 
