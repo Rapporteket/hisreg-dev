@@ -17,6 +17,7 @@ RUN cat /home/rstudio/rap_config/db.yml >> /home/rstudio/rap_config/dbConfig.yml
                                 'magrittr',\
                                 'shiny',\
                                 'shinyalert',\
+                                'shinyWidgets',\
                                 'shinycssloaders',\
                                 'testthat',\
                                 'xtable',\
