@@ -24,5 +24,6 @@ RUN cat /home/rstudio/rap_config/db.yml >> /home/rstudio/rap_config/dbConfig.yml
                                 'xtable',\
                                 'plotrix',\
                                 'shinyjs',\
+                                'plyr',\
                                 'tidyverse'))" \
     && R -e "remotes::install_github(c('Rapporteket/rapbase', 'Rapporteket/rapFigurer'))"
