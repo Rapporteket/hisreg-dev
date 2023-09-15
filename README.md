@@ -7,3 +7,4 @@ Speed up development processes for hisreg...
 
 ### Run
 Use ```docker-compose up``` from root of registry repository
+
